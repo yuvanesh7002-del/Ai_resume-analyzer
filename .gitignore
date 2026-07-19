@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables (never commit real keys)
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Uploaded resumes should not be committed if you add local persistence later
+uploads/
+*.pdf
+*.docx
+!sample_resumes/*.pdf
+!sample_resumes/*.docx
