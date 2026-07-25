@@ -1,0 +1,62 @@
+skill,category
+Python,Programming
+Java,Programming
+C++,Programming
+C#,Programming
+JavaScript,Programming
+SQL,Programming
+R,Programming
+MySQL,Databases
+PostgreSQL,Databases
+MongoDB,Databases
+SQLite,Databases
+Machine Learning,Machine Learning
+Scikit-learn,Machine Learning
+XGBoost,Machine Learning
+Regression,Machine Learning
+Classification,Machine Learning
+Clustering,Machine Learning
+Deep Learning,Deep Learning
+TensorFlow,Deep Learning
+PyTorch,Deep Learning
+Keras,Deep Learning
+CNN,Deep Learning
+RNN,Deep Learning
+Transformers,Deep Learning
+NLP,NLP
+spaCy,NLP
+NLTK,NLP
+Hugging Face,NLP
+LLM,NLP
+RAG,NLP
+Sentence Transformers,NLP
+OpenCV,Computer Vision
+YOLO,Computer Vision
+Image Processing,Computer Vision
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Cloud Deployment,Cloud
+Docker,DevOps & Tools
+Kubernetes,DevOps & Tools
+Git,DevOps & Tools
+GitHub,DevOps & Tools
+CI/CD,DevOps & Tools
+MLflow,DevOps & Tools
+FastAPI,DevOps & Tools
+Linux,DevOps & Tools
+Pandas,Data & Visualization
+NumPy,Data & Visualization
+Power BI,Data & Visualization
+Tableau,Data & Visualization
+Excel,Data & Visualization
+Matplotlib,Data & Visualization
+Plotly,Data & Visualization
+HTML,Web & Backend
+CSS,Web & Backend
+React,Web & Backend
+Node.js,Web & Backend
+REST API,Web & Backend
+Streamlit,Web & Backend
+Flask,Web & Backend
+Django,Web & Backend
